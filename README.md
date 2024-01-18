@@ -13,4 +13,5 @@ A place to save super utils tools
 - Framework Frontend and Backend with Java & Lit or React [Hilla](https://hilla.dev/)
 - Frawork Frontend and Backend Java [Vaadin](https://vaadin.com/)
 - Link of Chrome to use your browser in your phone as testing environment (chrome://inspect/#devices)
-    You need to put your phone in debbuging mode of the developer mode 
+    You need to put your phone in debbuging mode of the developer mode
+- Favicon generator [FaviconGenerator](https://www.favicon-generator.org/)
