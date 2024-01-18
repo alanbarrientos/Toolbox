@@ -15,3 +15,7 @@ A place to save super utils tools
 - Link of Chrome to use your browser in your phone as testing environment (chrome://inspect/#devices)
     You need to put your phone in debbuging mode of the developer mode
 - Favicon generator [FaviconGenerator](https://www.favicon-generator.org/)
+
+## Proyects Example of all Working
+- Basic Login with SpringBoot and Keycloak [Link](https://github.com/alanbarrientos/Login-Springboot-Keycloak)
+- Basic Web Aplication with Hilla (React), Spring and Keycloak [Link](https://github.com/alanbarrientos/Hilla-React-Keycloak)
