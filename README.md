@@ -16,6 +16,7 @@ A place to save super utils tools
     You need to put your phone in debbuging mode of the developer mode
 - Favicon generator [FaviconGenerator](https://www.favicon-generator.org/)
 - Fake data Json [JsonPlaceHolder](https://jsonplaceholder.typicode.com/) and [DummyJson](https://dummyjson.com/)
+- Crear diagramas de DB [DBDiagram](https://dbdiagram.io/)
 
 ## Proyects Example of all Working
 - Basic Login with SpringBoot and Keycloak [Link](https://github.com/alanbarrientos/Login-Springboot-Keycloak)
