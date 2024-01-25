@@ -17,6 +17,8 @@ A place to save super utils tools
 - Favicon generator [FaviconGenerator](https://www.favicon-generator.org/)
 - Fake data Json [JsonPlaceHolder](https://jsonplaceholder.typicode.com/) and [DummyJson](https://dummyjson.com/)
 - Crear diagramas de DB [DBDiagram](https://dbdiagram.io/)
+- Crear diagramas de todo tipo con unas pocas lineas [Mermaid](https://mermaid.live/)
+- Una wiki que soporta Markdown y Mermaid [WikiJs](https://js.wiki/)
 
 ## Proyects Example of all Working
 - Basic Login with SpringBoot and Keycloak [Link](https://github.com/alanbarrientos/Login-Springboot-Keycloak)
