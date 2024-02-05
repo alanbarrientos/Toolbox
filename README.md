@@ -3,6 +3,7 @@ A place to save super utils tools
 
 ## Backend
 - Easy HTTP request in Java [Http-Request by Kevin Sawicki](https://github.com/kevinsawicki/http-request)
+- To manage diferents queue [Kafka](https://kafka.apache.org/quickstart) 
   
 ## Frontend
 - The most Simple and Minimalistic Framework CSS [SimpleCSS](https://simplecss.org/) An Example of SimpleCSS [Link of example](https://cdn.simplecss.org/)
