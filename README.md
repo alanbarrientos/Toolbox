@@ -20,6 +20,7 @@ A place to save super utils tools
 - Crear diagramas de DB [DBDiagram](https://dbdiagram.io/)
 - Crear diagramas de todo tipo con unas pocas lineas [Mermaid](https://mermaid.live/)
 - Una wiki que soporta Markdown y Mermaid [WikiJs](https://js.wiki/)
+- To cast via usb the screen of your mobile on the screen of your computer [scrcpy](https://github.com/Genymobile/scrcpy) 
 
 ## Proyects Example of all Working
 - Basic Login with SpringBoot and Keycloak [Link](https://github.com/alanbarrientos/Login-Springboot-Keycloak)
