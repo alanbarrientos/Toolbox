@@ -3,13 +3,15 @@ A place to save super utils tools
 
 ## Backend
 - Easy HTTP request in Java [Http-Request by Kevin Sawicki](https://github.com/kevinsawicki/http-request)
-- To manage diferents queue [Kafka](https://kafka.apache.org/quickstart) 
+- To manage diferents queue [Kafka](https://kafka.apache.org/quickstart)
+- Backend PDF generator LibrePDF [OpenPdf](https://github.com/LibrePDF/OpenPDF)
   
 ## Frontend
 - The most Simple and Minimalistic Framework CSS [SimpleCSS](https://simplecss.org/) An Example of SimpleCSS [Link of example](https://cdn.simplecss.org/)
 - A Simple Framework CSS [Bulma CSS](https://bulma.io/)
 - Animation with [WickedCSS](https://kristofferandreasen.github.io/wickedCSS/)
 - Color Conviner [CamvaColorConviner](https://www.canva.com/colors/color-wheel/)
+- Frontend PDF generator [pdf-lib](https://pdf-lib.js.org/#examples)
 
 ## Others
 - Framework Frontend and Backend with Java & Lit or React [Hilla](https://hilla.dev/)
