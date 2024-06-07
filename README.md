@@ -13,6 +13,7 @@ A place to save super utils tools
 - Create Complex Animation [Rive](https://rive.app/) 
 - Color Conviner [CamvaColorConviner](https://www.canva.com/colors/color-wheel/)
 - Frontend PDF generator [pdf-lib](https://pdf-lib.js.org/#examples)
+- CSS Spinners [Loading.io](https://loading.io/css/)
 
 ## Others
 - Framework Frontend and Backend with Java & Lit or React [Hilla](https://hilla.dev/)
