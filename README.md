@@ -45,5 +45,6 @@ Network
   
 Linux
 - Full course for beginners by freeCodeCamp.org in youtube
+
 Basics to get a job in software industry
-[Mastersito Comming Soon...](http://mastersito.com/)
+-Mastersito [Comming Soon...](http://mastersito.com/)
