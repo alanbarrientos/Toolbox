@@ -39,8 +39,10 @@ Java
 - Malagupta OCA 8 Book
 - Full course by Amigos Code in youtube[Link](https://www.youtube.com/watch?v=Qgl81fPcLc8)
 - Data structures by Amigos Code in youtube [Link](https://www.youtube.com/watch?v=8MmMm2-kJV8)
+  
 Network
 - Networking fundamental by Practical Networking in youtube [Link](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
+  
 Linux
 - Full course for beginners by freeCodeCamp.org in youtube
 Basics to get a job in software industry
