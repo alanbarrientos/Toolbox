@@ -48,3 +48,9 @@ Linux
 
 Basics to get a job in software industry
 - Mastersito [Comming Soon...](http://mastersito.com/)
+
+## Changing from Windows to MacOS
+- Alt+Tab functionality [AltTab](https://alt-tab-macos.netlify.app/) settings to be change: 1)Change the shorcut to Command+Tab, 2)The things that you should configure is the show on setting (I use "Screen including mouse"), 3)Set the "Show app with no open window" to "Hide".
+- When you want to preserve the scroll direction on your trackpad but you want to change in your mouse [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
+
+
