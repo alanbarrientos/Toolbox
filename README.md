@@ -24,6 +24,7 @@ A place to save super utils tools
 - Fake data Json [JsonPlaceHolder](https://jsonplaceholder.typicode.com/) and [DummyJson](https://dummyjson.com/)
 - Crear diagramas de DB [DBDiagram](https://dbdiagram.io/)
 - Crear diagramas de todo tipo con unas pocas lineas [Mermaid](https://mermaid.live/)
+- Crear diagramas visuales rapidos [Excalidraw](https://excalidraw.com/)
 - Una wiki que soporta Markdown y Mermaid [WikiJs](https://js.wiki/)
 - To cast via usb the screen of your mobile on the screen of your computer [scrcpy](https://github.com/Genymobile/scrcpy) 
 
